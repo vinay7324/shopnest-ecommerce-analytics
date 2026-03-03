@@ -15,6 +15,13 @@ The dashboard integrates multiple datasets and visualizations into a **single in
 
 ---
 
+### Seasonal Sales Patterns (Quarterly)
+![Seasonal Sales](1.png)
+
+This line chart reveals **seasonal trends in quarterly sales performance**, helping identify peak sales periods.
+
+---
+
 ## Business Problem
 
 E-commerce companies generate large volumes of transactional data related to **orders, payments, product categories, deliveries, and customer reviews**.
@@ -49,6 +56,7 @@ Contains information about:
 This dataset helps analyze **delivery performance and order timelines**.
 
 ---
+
 
 ### Order Items Dataset
 
